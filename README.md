@@ -9,3 +9,7 @@ https://platform.openai.com/api-keys (Secret Key by OpenIA)
 <br>
 https://github.com/adamrushy/OpenAISwift (Model)
 <br>
+
+<br>
+
+![Simulator Screenshot - iPhone 15 Pro - 2024-04-22 at 16 54 39](https://github.com/GlhrmSilveira/GuiGuiBot/assets/142754358/b79f166d-7d76-4cd7-8b2b-e5c12bb15c11)
